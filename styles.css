@@ -65,20 +65,20 @@ object-fit: cover;
   }
   
   a {
-    color:rgb(109, 238, 105);
+    color:blue;
     margin-right: 0.5rem;
     padding-bottom:1rem;
   }
   
   a:visited {
-    color:lightblue;
+    color:gray;
     /*FreeCodeCamp link is not working with this code for some reason.*/
   }
   
   a:hover {
-    color:white;
+    color:gray;
   }
   
   a:active {
-    color:white;
+    color:gray;
   }
